@@ -1,0 +1,13 @@
+table *{
+    font-family: "Arial";
+}
+table.table{
+    margin:80px;
+}
+
+table.table tr{
+    padding:12px;
+}
+table.table tr td{
+    padding:6px;
+}
